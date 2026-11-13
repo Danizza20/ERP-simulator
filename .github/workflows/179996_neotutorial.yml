@@ -1,4 +1,4 @@
-name: 179996 Neo4j Tutorial 
+name: Neo4j DataCamp Tutorial - 179996
 on:
   workflow_dispatch:
     inputs:
